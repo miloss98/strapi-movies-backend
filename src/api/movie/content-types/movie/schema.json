@@ -51,6 +51,10 @@
       "allowedTypes": [
         "images"
       ]
+    },
+    "duration": {
+      "type": "string",
+      "required": true
     }
   }
 }
